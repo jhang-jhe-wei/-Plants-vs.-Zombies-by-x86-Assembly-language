@@ -7,7 +7,9 @@
   - EVB:  windows xp(Dos)   
   - language: Assembly language(x86)
 ## How to use it?
-  - I forgot.
+  - b.asm is driver
+  - macro.h is resource
+  - Getcolor.java  converts the picture to bitmap
 ## Other
 
 ## License
