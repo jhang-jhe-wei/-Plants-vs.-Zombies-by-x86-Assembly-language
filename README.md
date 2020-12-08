@@ -1,6 +1,6 @@
 # Plants vs.Zombies by x86 Assembly language
 ## Introduction
-  using Assembly language(x86) to make Plants vs.Zombies
+  Using Assembly language(x86) to make Plants vs.Zombies
 ## Video
   [![Plants vs.Zombies by x86 Assembly language](https://i.imgur.com/uxiMqKP.png)](https://youtu.be/6KKGQbUG51k)
 ## Environment
